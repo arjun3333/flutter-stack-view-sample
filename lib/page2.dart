@@ -21,7 +21,7 @@ class _page2State extends State<page2> {
           actions: [
             Padding(padding:EdgeInsets.all(8.0),
             child: Icon(Icons.home,)
-          ],
+            )],
         ),
         body: Container(
 
