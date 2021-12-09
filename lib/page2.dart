@@ -20,7 +20,7 @@ class _page2State extends State<page2> {
         centerTitle: true,
           actions: [
             Padding(padding:EdgeInsets.all(8.0),
-            child: Icon(Icons.search),)
+            child: Icon(Icons.home,)
           ],
         ),
         body: Container(
